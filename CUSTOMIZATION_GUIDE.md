@@ -2,6 +2,15 @@
 
 This guide will help you customize your GitHub profile README to create a professional resume-style portfolio.
 
+## Important Note About Username
+
+All references to "Anantiz" in the template files are **intentional and correct**. Since this is the `.github` repository for the user "Anantiz", the username appears in:
+- GitHub statistics widgets (`username=Anantiz`)
+- Profile view counters
+- Repository URLs
+
+**Do NOT change "Anantiz" to a placeholder** - it's your actual GitHub username and needs to stay as-is for the widgets and links to work correctly.
+
 ## Quick Start
 
 1. **Replace all placeholder text** in `README.md` with your actual information

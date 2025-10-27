@@ -4,6 +4,15 @@
 
 This repository now contains a professional GitHub profile README template that serves as your resume.
 
+## Important: About the Username "Anantiz"
+
+You'll see "Anantiz" in various places throughout these files. **This is correct!** "Anantiz" is your GitHub username, and it needs to appear in:
+- GitHub statistics widgets
+- Profile URLs  
+- Repository links
+
+**Do not change "Anantiz" to anything else** - it's required for the profile to work correctly.
+
 ## Files in This Repository
 
 1. **README.md** - Your main profile page (currently a template)
