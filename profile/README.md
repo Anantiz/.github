@@ -52,7 +52,3 @@ An accelerated learning experience in full-stack mobile/web development—built 
 
 - **Inception** - Complex DevOps infrastructure project deploying a multi-container WordPress site with custom configurations, networks, and volumes, all within a VM.
   *Tech: Docker, Docker Compose, Nginx, MariaDB, Virtual Machines*
-
----
-
-*💼 Open to relocation and full-time opportunities*
