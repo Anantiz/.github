@@ -31,7 +31,7 @@ I'm looking to relocate to a tech hub and transition from school projects to sol
 
 ### 🎯 Special Mention: [bloomVibeCheck](https://github.com/Anantiz/bloomVibeCheck) ❕❕❕
 
-An accelerated learning experience in full-stack mobile/web development—built with Expo, Convex, React Native, and Vite.
+An accelerated learning experience in full-stack mobile/web development—built with Expo, Convex, React Native, and Vercel.
 👉 [Made with lots of coffee](https://github.com/Anantiz/bloomVibeCheck)
 
 > 💡 *For a complete list of my repositories, check out my [GitHub profile](https://github.com/Anantiz?tab=repositories)*
